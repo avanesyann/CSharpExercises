@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciSequence", "Fibona
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubarrayDivision", "SubarrayDivision\SubarrayDivision.csproj", "{5475F185-84A6-4A70-AAF6-39E01742A899}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetweenTwoSets", "BetweenTwoSets\BetweenTwoSets.csproj", "{D0EB5A0F-D855-487C-B347-E4F43C59655F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradesTracker", "GradesTracker\GradesTracker.csproj", "{EFEC106E-0675-41ED-A766-B621D4257800}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{5475F185-84A6-4A70-AAF6-39E01742A899}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5475F185-84A6-4A70-AAF6-39E01742A899}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5475F185-84A6-4A70-AAF6-39E01742A899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0EB5A0F-D855-487C-B347-E4F43C59655F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0EB5A0F-D855-487C-B347-E4F43C59655F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0EB5A0F-D855-487C-B347-E4F43C59655F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0EB5A0F-D855-487C-B347-E4F43C59655F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFEC106E-0675-41ED-A766-B621D4257800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEC106E-0675-41ED-A766-B621D4257800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEC106E-0675-41ED-A766-B621D4257800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEC106E-0675-41ED-A766-B621D4257800}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
