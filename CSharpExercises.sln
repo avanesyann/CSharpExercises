@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciSequence", "FibonacciSequence\FibonacciSequence.csproj", "{709177E5-2758-4725-BF79-853E9995BAC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubarrayDivision", "SubarrayDivision\SubarrayDivision.csproj", "{5475F185-84A6-4A70-AAF6-39E01742A899}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{709177E5-2758-4725-BF79-853E9995BAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{709177E5-2758-4725-BF79-853E9995BAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{709177E5-2758-4725-BF79-853E9995BAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5475F185-84A6-4A70-AAF6-39E01742A899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5475F185-84A6-4A70-AAF6-39E01742A899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5475F185-84A6-4A70-AAF6-39E01742A899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5475F185-84A6-4A70-AAF6-39E01742A899}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
