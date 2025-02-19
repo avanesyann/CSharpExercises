@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetweenTwoSets", "BetweenTw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradesTracker", "GradesTracker\GradesTracker.csproj", "{EFEC106E-0675-41ED-A766-B621D4257800}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisibleSumPairs", "DivisibleSumPairs\DivisibleSumPairs.csproj", "{627A7F2A-2C84-41A4-896B-B1A9932B5BA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EFEC106E-0675-41ED-A766-B621D4257800}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFEC106E-0675-41ED-A766-B621D4257800}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFEC106E-0675-41ED-A766-B621D4257800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{627A7F2A-2C84-41A4-896B-B1A9932B5BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{627A7F2A-2C84-41A4-896B-B1A9932B5BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{627A7F2A-2C84-41A4-896B-B1A9932B5BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{627A7F2A-2C84-41A4-896B-B1A9932B5BA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
