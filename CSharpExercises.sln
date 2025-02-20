@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradesTracker", "GradesTrac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisibleSumPairs", "DivisibleSumPairs\DivisibleSumPairs.csproj", "{627A7F2A-2C84-41A4-896B-B1A9932B5BA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookCollection", "BookCollection\BookCollection.csproj", "{C5D28A21-E955-4F28-BCC1-4CD11C3962A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonAppetit", "BonAppetit\BonAppetit.csproj", "{178D07DF-696B-4D0B-882B-3FCF5CCECF97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{627A7F2A-2C84-41A4-896B-B1A9932B5BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{627A7F2A-2C84-41A4-896B-B1A9932B5BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{627A7F2A-2C84-41A4-896B-B1A9932B5BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5D28A21-E955-4F28-BCC1-4CD11C3962A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D28A21-E955-4F28-BCC1-4CD11C3962A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D28A21-E955-4F28-BCC1-4CD11C3962A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D28A21-E955-4F28-BCC1-4CD11C3962A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{178D07DF-696B-4D0B-882B-3FCF5CCECF97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{178D07DF-696B-4D0B-882B-3FCF5CCECF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{178D07DF-696B-4D0B-882B-3FCF5CCECF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{178D07DF-696B-4D0B-882B-3FCF5CCECF97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
