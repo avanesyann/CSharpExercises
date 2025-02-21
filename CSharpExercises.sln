@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookCollection", "BookColle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonAppetit", "BonAppetit\BonAppetit.csproj", "{178D07DF-696B-4D0B-882B-3FCF5CCECF97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtopianTree", "UtopianTree\UtopianTree.csproj", "{535DD093-80CD-47CB-9856-C998F1F0D469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumDistances", "MinimumDistances\MinimumDistances.csproj", "{1741D62A-A31B-47F9-8FF5-D10561586D92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{178D07DF-696B-4D0B-882B-3FCF5CCECF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{178D07DF-696B-4D0B-882B-3FCF5CCECF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{178D07DF-696B-4D0B-882B-3FCF5CCECF97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{535DD093-80CD-47CB-9856-C998F1F0D469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535DD093-80CD-47CB-9856-C998F1F0D469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535DD093-80CD-47CB-9856-C998F1F0D469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535DD093-80CD-47CB-9856-C998F1F0D469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1741D62A-A31B-47F9-8FF5-D10561586D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1741D62A-A31B-47F9-8FF5-D10561586D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1741D62A-A31B-47F9-8FF5-D10561586D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1741D62A-A31B-47F9-8FF5-D10561586D92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
