@@ -17,11 +17,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookCollection", "BookColle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonAppetit", "BonAppetit\BonAppetit.csproj", "{178D07DF-696B-4D0B-882B-3FCF5CCECF97}"
 EndProject
+<<<<<<< Updated upstream
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtopianTree", "UtopianTree\UtopianTree.csproj", "{535DD093-80CD-47CB-9856-C998F1F0D469}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumDistances", "MinimumDistances\MinimumDistances.csproj", "{1741D62A-A31B-47F9-8FF5-D10561586D92}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HurdleRace", "HurdleRace\HurdleRace.csproj", "{EF096716-CA2A-4B43-960D-4F3C4E720B33}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatchTheMouse", "CatchTheMouse\CatchTheMouse.csproj", "{87390673-6EF3-4562-A37E-44B0AD291277}"
+>>>>>>> Stashed changes
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,7 @@ Global
 		{178D07DF-696B-4D0B-882B-3FCF5CCECF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{178D07DF-696B-4D0B-882B-3FCF5CCECF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{178D07DF-696B-4D0B-882B-3FCF5CCECF97}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< Updated upstream
 		{535DD093-80CD-47CB-9856-C998F1F0D469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{535DD093-80CD-47CB-9856-C998F1F0D469}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{535DD093-80CD-47CB-9856-C998F1F0D469}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -69,6 +74,12 @@ Global
 		{EF096716-CA2A-4B43-960D-4F3C4E720B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF096716-CA2A-4B43-960D-4F3C4E720B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF096716-CA2A-4B43-960D-4F3C4E720B33}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{87390673-6EF3-4562-A37E-44B0AD291277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87390673-6EF3-4562-A37E-44B0AD291277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87390673-6EF3-4562-A37E-44B0AD291277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87390673-6EF3-4562-A37E-44B0AD291277}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> Stashed changes
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
