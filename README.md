@@ -1,2 +1,1 @@
-# CSharpExercises
-Exercises throughout the C# journey.
+## Count extra large factorials. 
