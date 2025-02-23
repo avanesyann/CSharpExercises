@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindDigits", "FindDigits\Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtraLongFactorials", "ExtraLongFactorials\ExtraLongFactorials.csproj", "{8C6851B8-4188-40A2-A3BF-FC1CD4375456}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakingTheRecords", "BreakingTheRecords\BreakingTheRecords.csproj", "{CC4E5385-4048-4144-91D3-36984FD2ABC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{8C6851B8-4188-40A2-A3BF-FC1CD4375456}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C6851B8-4188-40A2-A3BF-FC1CD4375456}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C6851B8-4188-40A2-A3BF-FC1CD4375456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC4E5385-4048-4144-91D3-36984FD2ABC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4E5385-4048-4144-91D3-36984FD2ABC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4E5385-4048-4144-91D3-36984FD2ABC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4E5385-4048-4144-91D3-36984FD2ABC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
