@@ -1,1 +1,1 @@
-## Count extra large factorials. 
+## Exercises through C# journey.
