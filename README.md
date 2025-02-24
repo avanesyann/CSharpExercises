@@ -1,1 +1,1 @@
-## Exercises through C# journey.
+## Exercises throughout C# journey.
