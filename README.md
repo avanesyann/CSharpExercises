@@ -1,1 +1,0 @@
-## Exercises throughout C# journey.
