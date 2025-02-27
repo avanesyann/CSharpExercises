@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingBook", "DrawingBook\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautifulDays", "BeautifulDays\BeautifulDays.csproj", "{3B0ADCAB-8A15-4608-BCE3-C9DC1E31B880}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViralAdvertising", "ViralAdvertising\ViralAdvertising.csproj", "{ECF36E95-9AC6-48CC-B182-A8AF9F119738}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{3B0ADCAB-8A15-4608-BCE3-C9DC1E31B880}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B0ADCAB-8A15-4608-BCE3-C9DC1E31B880}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B0ADCAB-8A15-4608-BCE3-C9DC1E31B880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF36E95-9AC6-48CC-B182-A8AF9F119738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF36E95-9AC6-48CC-B182-A8AF9F119738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF36E95-9AC6-48CC-B182-A8AF9F119738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF36E95-9AC6-48CC-B182-A8AF9F119738}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
