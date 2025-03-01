@@ -1,1 +1,1 @@
-## Exercises throughout C# journey.
+# Exercises throughout the C# journey.  :rocket:
