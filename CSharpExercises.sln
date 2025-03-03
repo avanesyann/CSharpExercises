@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpingOnClouds", "JumpingO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammerDay", "ProgrammerDay\ProgrammerDay.csproj", "{8AB8787F-4BE8-404C-B37A-AC5D4FE7F70A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickingNumbers", "PickingNumbers\PickingNumbers.csproj", "{CE3E1F83-27F4-4308-ABB1-E7596FCD27FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{8AB8787F-4BE8-404C-B37A-AC5D4FE7F70A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AB8787F-4BE8-404C-B37A-AC5D4FE7F70A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AB8787F-4BE8-404C-B37A-AC5D4FE7F70A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE3E1F83-27F4-4308-ABB1-E7596FCD27FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3E1F83-27F4-4308-ABB1-E7596FCD27FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3E1F83-27F4-4308-ABB1-E7596FCD27FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3E1F83-27F4-4308-ABB1-E7596FCD27FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
