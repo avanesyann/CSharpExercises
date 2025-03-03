@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammerDay", "Programmer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickingNumbers", "PickingNumbers\PickingNumbers.csproj", "{CE3E1F83-27F4-4308-ABB1-E7596FCD27FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFViewer", "PDFViewer\PDFViewer.csproj", "{3C37A0D2-7B6E-4A3E-89E6-B3332515E5A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{CE3E1F83-27F4-4308-ABB1-E7596FCD27FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE3E1F83-27F4-4308-ABB1-E7596FCD27FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE3E1F83-27F4-4308-ABB1-E7596FCD27FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C37A0D2-7B6E-4A3E-89E6-B3332515E5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C37A0D2-7B6E-4A3E-89E6-B3332515E5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C37A0D2-7B6E-4A3E-89E6-B3332515E5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C37A0D2-7B6E-4A3E-89E6-B3332515E5A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
