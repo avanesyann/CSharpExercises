@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryFine", "LibraryFine\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceEquation", "SequenceEquation\SequenceEquation.csproj", "{7AF4AEA4-C1CB-4E40-A391-C17A1382A308}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverriding", "MethodOverriding\MethodOverriding.csproj", "{D84369D5-1DA6-4F5D-8474-31CEA45FA485}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{7AF4AEA4-C1CB-4E40-A391-C17A1382A308}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AF4AEA4-C1CB-4E40-A391-C17A1382A308}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AF4AEA4-C1CB-4E40-A391-C17A1382A308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D84369D5-1DA6-4F5D-8474-31CEA45FA485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D84369D5-1DA6-4F5D-8474-31CEA45FA485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D84369D5-1DA6-4F5D-8474-31CEA45FA485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D84369D5-1DA6-4F5D-8474-31CEA45FA485}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
