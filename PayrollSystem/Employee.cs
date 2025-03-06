@@ -13,7 +13,7 @@
 
         public override double CalculateSalary()
         {
-            return BaseSalary + Bonus;
+            return CalculateSalaryAfterTax(BaseSalary + Bonus);
         }
     }
     public class PartTime : Employee
@@ -29,7 +29,7 @@
 
         public override double CalculateSalary()
         {
-            return HourlyRate * HoursWorked;
+            return CalculateSalaryAfterTax(HourlyRate * HoursWorked);
         }
     }
     public abstract class Employee
@@ -42,5 +42,18 @@
             Name = name;
         }
         public abstract double CalculateSalary();
+
+
+        protected double CalculateSalaryAfterTax(double salary)
+        {
+            double tax = 0;
+
+            if (salary <= 10000) tax = salary * 0.1;
+            else if (salary <= 30000) tax = 10000 * (salary - 10000) * 0.15;
+            else if (salary <= 60000) tax = 10000 * 0.10 + 20000 * 0.15 + (salary - 30000) * 0.20;
+            else tax = 10000 * 0.10 + 20000 * 0.15 + 30000 * 0.20 + (salary - 60000) * 0.25;
+
+            return salary - tax;
+        }
     }
 }
