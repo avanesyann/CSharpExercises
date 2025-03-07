@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayrollSystem", "PayrollSys
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CutTheSticks", "CutTheSticks\CutTheSticks.csproj", "{E64E66C9-9D55-484E-B15A-53288F2A939A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualizeArray", "EqualizeArray\EqualizeArray.csproj", "{22B38FC0-573E-458C-89BF-6B2997867FD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{E64E66C9-9D55-484E-B15A-53288F2A939A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E64E66C9-9D55-484E-B15A-53288F2A939A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E64E66C9-9D55-484E-B15A-53288F2A939A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B38FC0-573E-458C-89BF-6B2997867FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B38FC0-573E-458C-89BF-6B2997867FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B38FC0-573E-458C-89BF-6B2997867FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B38FC0-573E-458C-89BF-6B2997867FD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
