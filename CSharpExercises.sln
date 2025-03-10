@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamelCase", "CamelCase\Came
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeArea", "ShapeArea\ShapeArea.csproj", "{B282DB0B-28FD-4CCB-925B-50500C6B1730}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SherlockAndSquares", "SherlockAndSquares\SherlockAndSquares.csproj", "{810751D3-5968-4A2D-82AB-880AE9433840}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +233,10 @@ Global
 		{B282DB0B-28FD-4CCB-925B-50500C6B1730}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B282DB0B-28FD-4CCB-925B-50500C6B1730}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B282DB0B-28FD-4CCB-925B-50500C6B1730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{810751D3-5968-4A2D-82AB-880AE9433840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{810751D3-5968-4A2D-82AB-880AE9433840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{810751D3-5968-4A2D-82AB-880AE9433840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{810751D3-5968-4A2D-82AB-880AE9433840}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
