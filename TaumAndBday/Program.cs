@@ -9,8 +9,8 @@
 
         static long TaumBday(int b, int w, int bc, int wc, int z)
         {
-            int minBlack = Math.Min(bc, wc + z);
-            int minWhite = Math.Min(wc, bc + z);
+            long minBlack = Math.Min(bc, wc + z);
+            long minWhite = Math.Min(wc, bc + z);
 
             return (b * minBlack) + (w * minWhite);
         }
