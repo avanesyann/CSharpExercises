@@ -8,6 +8,8 @@ namespace JumpingOnClouds
         {
             Console.WriteLine(JumpingOnClouds(new List<int>() { 0, 1, 0, 0, 0, 1, 0 }));
             Console.WriteLine(JumpingOnClouds(new List<int>() { 0, 0, 0, 0, 1, 0 }));
+
+            Console.WriteLine(JumpingOnClouds( [ 0, 0, 1, 0, 0, 1, 1, 0 ], 2));
         }
 
         static int JumpingOnClouds(List<int> clouds)
@@ -30,6 +32,20 @@ namespace JumpingOnClouds
             
 
             return countJumps;
+        }
+        static int JumpingOnClouds(int[] c, int k)
+        {
+            int e = 100;
+            int n = c.Length;
+            int i = 0;
+
+            do
+            {
+                i = (i + k) % n;
+                e -= 1 + 2 * c[i];
+            } while (i != 0);
+
+            return e;
         }
     }
 }
