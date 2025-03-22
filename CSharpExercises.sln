@@ -99,6 +99,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlatlandStations", "Flatlan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FairRations", "FairRations\FairRations.csproj", "{0B80CC41-5089-4461-BB96-C7E6F1B8B4A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautifulTriplets", "BeautifulTriplets\BeautifulTriplets.csproj", "{8641904F-1996-4C60-AFB7-93B3AEA9422C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLane", "ServiceLane\ServiceLane.csproj", "{49574D1E-3BBA-45CB-A0D6-DF2959FB8EDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -297,6 +301,14 @@ Global
 		{0B80CC41-5089-4461-BB96-C7E6F1B8B4A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B80CC41-5089-4461-BB96-C7E6F1B8B4A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B80CC41-5089-4461-BB96-C7E6F1B8B4A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8641904F-1996-4C60-AFB7-93B3AEA9422C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8641904F-1996-4C60-AFB7-93B3AEA9422C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8641904F-1996-4C60-AFB7-93B3AEA9422C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8641904F-1996-4C60-AFB7-93B3AEA9422C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49574D1E-3BBA-45CB-A0D6-DF2959FB8EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49574D1E-3BBA-45CB-A0D6-DF2959FB8EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49574D1E-3BBA-45CB-A0D6-DF2959FB8EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49574D1E-3BBA-45CB-A0D6-DF2959FB8EDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
