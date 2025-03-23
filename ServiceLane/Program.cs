@@ -7,9 +7,21 @@
 
         }
 
-        static List<int> ServiceLane(int n, List<List<int>> cases)
+        static List<int> ServiceLane(List<int> width, List<List<int>> cases)
         {
+            List<int> results = new List<int>();
 
+            foreach (var testCase in cases)
+            {
+                int entry = testCase[0];
+                int exit = testCase[1];
+
+                int minWidth = width.GetRange(entry, exit - entry + 1).Min();
+
+                results.Add(minWidth);
+            }
+
+            return results;
         }
     }
 }
