@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautifulTriplets", "Beauti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLane", "ServiceLane\ServiceLane.csproj", "{49574D1E-3BBA-45CB-A0D6-DF2959FB8EDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CavityMap", "CavityMap\CavityMap.csproj", "{49CB46D3-38CD-4AA2-892C-CC506CCCEF7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -309,6 +311,10 @@ Global
 		{49574D1E-3BBA-45CB-A0D6-DF2959FB8EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49574D1E-3BBA-45CB-A0D6-DF2959FB8EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49574D1E-3BBA-45CB-A0D6-DF2959FB8EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49CB46D3-38CD-4AA2-892C-CC506CCCEF7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49CB46D3-38CD-4AA2-892C-CC506CCCEF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49CB46D3-38CD-4AA2-892C-CC506CCCEF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49CB46D3-38CD-4AA2-892C-CC506CCCEF7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
