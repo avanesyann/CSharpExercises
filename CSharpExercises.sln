@@ -105,6 +105,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLane", "ServiceLane\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CavityMap", "CavityMap\CavityMap.csproj", "{49CB46D3-38CD-4AA2-892C-CC506CCCEF7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridSearch", "GridSearch\GridSearch.csproj", "{6F6CB8EA-51CD-490A-8E8F-4B4470810401}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +317,10 @@ Global
 		{49CB46D3-38CD-4AA2-892C-CC506CCCEF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49CB46D3-38CD-4AA2-892C-CC506CCCEF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49CB46D3-38CD-4AA2-892C-CC506CCCEF7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F6CB8EA-51CD-490A-8E8F-4B4470810401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6CB8EA-51CD-490A-8E8F-4B4470810401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6CB8EA-51CD-490A-8E8F-4B4470810401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6CB8EA-51CD-490A-8E8F-4B4470810401}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
