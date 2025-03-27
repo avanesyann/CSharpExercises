@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine(Advertising(5));
+            Console.WriteLine(Advertising(6));
         }
 
         static int Advertising(int n)
