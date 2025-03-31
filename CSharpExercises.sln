@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrangeCounter", "StrangeCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrongPassword", "StrongPassword\StrongPassword.csproj", "{478359A4-60AA-4A21-820E-8B99728232A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoCharacters", "TwoCharacters\TwoCharacters.csproj", "{B63129C9-3539-4696-88FD-41E212723CFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -333,6 +335,10 @@ Global
 		{478359A4-60AA-4A21-820E-8B99728232A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{478359A4-60AA-4A21-820E-8B99728232A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{478359A4-60AA-4A21-820E-8B99728232A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B63129C9-3539-4696-88FD-41E212723CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63129C9-3539-4696-88FD-41E212723CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63129C9-3539-4696-88FD-41E212723CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63129C9-3539-4696-88FD-41E212723CFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
