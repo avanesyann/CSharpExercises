@@ -119,6 +119,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaprekarNumbers", "Kaprekar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsExploration", "MarsExploration\MarsExploration.csproj", "{875538DC-49DE-473C-9D25-A0897FFA5F25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gemstones", "Gemstones\Gemstones.csproj", "{AF50F2A1-864B-4A54-B72A-A80EC47DE25F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -357,6 +359,10 @@ Global
 		{875538DC-49DE-473C-9D25-A0897FFA5F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{875538DC-49DE-473C-9D25-A0897FFA5F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{875538DC-49DE-473C-9D25-A0897FFA5F25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF50F2A1-864B-4A54-B72A-A80EC47DE25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF50F2A1-864B-4A54-B72A-A80EC47DE25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF50F2A1-864B-4A54-B72A-A80EC47DE25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF50F2A1-864B-4A54-B72A-A80EC47DE25F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
