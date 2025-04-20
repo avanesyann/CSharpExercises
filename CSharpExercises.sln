@@ -127,6 +127,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceCreamParlor", "IceCreamP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcsCakewalk", "MarcsCakewalk\MarcsCakewalk.csproj", "{29E0D5D3-4FA4-4A3D-ACCC-96B755C7270D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridChallenge", "GridChallenge\GridChallenge.csproj", "{840A8042-DA50-4E8F-9E09-251E0A7AFE6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -381,6 +383,10 @@ Global
 		{29E0D5D3-4FA4-4A3D-ACCC-96B755C7270D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29E0D5D3-4FA4-4A3D-ACCC-96B755C7270D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29E0D5D3-4FA4-4A3D-ACCC-96B755C7270D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{840A8042-DA50-4E8F-9E09-251E0A7AFE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840A8042-DA50-4E8F-9E09-251E0A7AFE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840A8042-DA50-4E8F-9E09-251E0A7AFE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840A8042-DA50-4E8F-9E09-251E0A7AFE6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
