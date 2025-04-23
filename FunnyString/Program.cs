@@ -5,6 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine(FunnyString("lmnop"));
+            Console.WriteLine(FunnyString("acxz"));
+            Console.WriteLine(FunnyString("bcxz"));
         }
 
         static string FunnyString(string s)
