@@ -133,6 +133,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMedian", "FindMedian\Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClosestNumbers", "ClosestNumbers\ClosestNumbers.csproj", "{BED56F9A-743F-4DED-AE15-8FF3F53352DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunnyString", "FunnyString\FunnyString.csproj", "{B882D179-C829-42E9-A169-995D98C98899}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -399,6 +401,10 @@ Global
 		{BED56F9A-743F-4DED-AE15-8FF3F53352DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BED56F9A-743F-4DED-AE15-8FF3F53352DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BED56F9A-743F-4DED-AE15-8FF3F53352DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B882D179-C829-42E9-A169-995D98C98899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B882D179-C829-42E9-A169-995D98C98899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B882D179-C829-42E9-A169-995D98C98899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B882D179-C829-42E9-A169-995D98C98899}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
