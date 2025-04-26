@@ -11,13 +11,27 @@
             Console.WriteLine(Pairs(6, testList2));
         }
 
+
         static int Pairs(int k, List<int> arr)
+        {
+            HashSet<int> set = new HashSet<int>(arr);
+            int amount = 0;
+
+            foreach (int i in arr)
+            {
+                if (set.Contains(i + k))
+                    amount++;
+            }
+
+            return amount;
+        }
+        static int PairsBF(int k, List<int> arr)
         {
             int amount = 0;
             
             for (int i = 0; i < arr.Count - 1; i++)
             {
-                for (int j = 1; j < arr.Count; j++)
+                for (int j = i; j < arr.Count; j++)
                 {
                     if (Math.Abs(arr[i] - arr[j]) == k)
                         amount++;
@@ -26,5 +40,6 @@
 
             return amount;
         }
+
     }
 }
