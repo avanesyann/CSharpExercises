@@ -27,7 +27,23 @@
                 new int[,] { {2, 7, 6}, {9, 5, 1}, {4, 3, 8} }
             };
 
-            return 0;
+            int minCost = int.MaxValue;
+
+            foreach (var square in magicSquares)
+            {
+                int cost = 0;
+                for (int i = 0; i < 3; i++)
+                {
+                    for (int j = 0; j < 3; j++)
+                    {
+                        cost += Math.Abs(s[i][j] - square[i, j]);
+                    }
+                }
+
+                minCost = Math.Min(minCost, cost);
+            }
+
+            return minCost;
         }
     }
 }
