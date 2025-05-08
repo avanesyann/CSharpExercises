@@ -4,7 +4,13 @@
     {
         static void Main(string[] args)
         {
+            string testCase1 = "ab";
+            string testCase2 = "aa";
+            string testCase3 = "hefg";
 
+            Console.WriteLine(BiggerIsGreater(testCase1));
+            Console.WriteLine(BiggerIsGreater(testCase2));
+            Console.WriteLine(BiggerIsGreater(testCase3));
         }
 
         static string BiggerIsGreater(string w)
@@ -23,7 +29,30 @@
             // input: "hefg"
             // output: "hegf"
 
-            return string.Empty;
+            char[] chars = w.ToCharArray();
+
+            int i = chars.Length - 2;
+            while (i >= 0 && chars[i] >= chars[i + 1])
+                i--;
+
+            if (i < 0)
+                return "no answer";
+
+
+            int j = chars.Length - 1;
+            while (chars[j] <= chars[i])
+                j--;
+
+
+            char temp = chars[i];
+            chars[i] = chars[j];
+            chars[j] = temp;
+
+            Array.Reverse(chars, i + 1, chars.Length - i - 1);
+
+            
+
+            return new string(chars);
         }
     }
 }
